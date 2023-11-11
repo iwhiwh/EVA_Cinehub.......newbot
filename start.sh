@@ -1,6 +1,6 @@
 echo "Cloning Repo, Please Wait..."
-git clone https://github.com/soymadip/EVA_Cinehub.git /EVA_Cinehub 
-cd /EVA_Cinehub 
+git clone https://github.com/iwhiwh/EVA_Cinehub.......newbot /EVA_Cinehub.......newbot 
+cd /EVA_Cinehub.......newbot
 echo "Installing Requirements..."
 pip3 install -U -r requirements.txt
 echo "Starting Bot, Please Wait..."
